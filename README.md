@@ -1,5 +1,5 @@
 <a rel="me" href="https://mastodon.social/@gavincompton">Mastodon</a>
 
-[Twitter](https://twitter.com/gavincompton)
+[BlueSky](https://bsky.app/profile/gavincompton.bsky.social)
 
 [LinkedIn](https://www.linkedin.com/in/gavincompton)
